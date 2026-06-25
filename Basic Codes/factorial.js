@@ -4,4 +4,4 @@ function fact(n){
 
 }
 
-console.log(fact(5));
+console.log(fact(45));
