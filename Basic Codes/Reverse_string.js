@@ -4,6 +4,7 @@ function reverseString(str){
         reverse += str[i];
         
     }
+    
     return reverse;
 
 }
